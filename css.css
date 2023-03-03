@@ -1,0 +1,18 @@
+iframe{
+    height: 10vw;
+    width: 25vw;
+}
+h1{
+    font-size: 3vw;
+    color:darkslategrey;
+}
+hr{
+    color: white;
+}
+body{
+    background-color: wheat;
+}
+h2{
+    font-size: 2vw;
+    color: goldenrod;
+}
